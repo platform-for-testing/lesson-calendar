@@ -24,3 +24,8 @@ Saturday `09/09/2017`
 1. Promise
 1. Generators
 1. Async/await
+1. Symbol (?)
+1. Rest parameters (?)
+1. Spread operator (?)
+1. Destructuring assignment (?)
+1. Proxy (?)
