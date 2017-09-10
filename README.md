@@ -41,3 +41,5 @@ Sunday `10/09/2017`
 1. What is non-blocking or asynchronous I/O in Node.js?
 1. Event loop
     - Nginx and apache principles
+    - Render queue, Callback queue, Call Stack, Web Apis
+    - `process.nextTick`, `setImmediate()` 
