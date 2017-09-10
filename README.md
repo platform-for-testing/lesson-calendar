@@ -1,9 +1,13 @@
 Calendar
 ==================
+![Image of Yaktocat](https://media.giphy.com/media/xTiTnJ3BooiDs8dL7W/giphy.gif)
 
 Sunday `03/09/2017`
 ------------
 1. Course's intro
+1. Roles of students and mentors in our project
+1. Сore goal of the project
+1. Functional Overview
 
 Saturday `09/09/2017`
 ------------
@@ -29,3 +33,11 @@ Saturday `09/09/2017`
 1. Spread operator (?)
 1. Destructuring assignment (?)
 1. Proxy (?)
+
+Sunday `10/09/2017`
+------------
+### Node.js
+1. Node.js history
+1. What is non-blocking or asynchronous I/O in Node.js?
+1. Event loop
+    - Nginx and apache principles
