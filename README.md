@@ -44,7 +44,7 @@ Sunday `10/09/2017`
     - Render queue, Callback queue, Call Stack, Web Apis
     - `process.nextTick`, `setImmediate()` 
 
-Sunday `10/09/2017`
+Saturday `16/09/2017`
 ------------
 ### TypeScript
 1. TypeScript History
@@ -53,7 +53,7 @@ Sunday `10/09/2017`
     - https://basarat.gitbooks.io/typescript/docs/why-typescript.html
 1. Classes
     - `super()`
-    - Access modifiers ( `privat`, `public`, `protected` ) 
+    - Access modifiers ( `private`, `public`, `protected` ) 
     - Shorthand constructor
 1. Interfaces
 1. Decorators
@@ -61,3 +61,7 @@ Sunday `10/09/2017`
 1. Modules
     - Destructuring in export
     - default export
+1. Types
+    - Arrays (brackets notation, generic type)
+    - Function return type
+    - `enum`, `void`, `any`
