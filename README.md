@@ -65,3 +65,5 @@ Saturday `16/09/2017`
     - Arrays (brackets notation, generic type)
     - Function return type
     - `enum`, `void`, `any`
+1. Typescript configuration
+    - `noImplicitAny`, `suppressImplicitAnyIndexErrors`
