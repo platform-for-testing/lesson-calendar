@@ -72,6 +72,8 @@ Saturday `16/09/2017`
 1. Typescript configuration
     - `noImplicitAny`, `suppressImplicitAnyIndexErrors`
 1. Triple-Slash Directives (?)
+1. Writing Declaration Files for @types (?)
+    - https://blogs.msdn.microsoft.com/typescript/2016/12/14/writing-dts-files-for-types/
 
 Sunday `17/09/2017`
 ------------
@@ -90,7 +92,7 @@ Sunday `17/09/2017`
     - @Output decorator (HANDLING EVENTS) `()`
     - Rendering `{{}}`
 1. Template Local Variables with #
-1. Glossary / Cheatsheet
+1. Glossary / Cheatsheet (?)
     - https://angular.io/guide/glossary
     - https://angular.io/guide/cheatsheet
 1. Code review
