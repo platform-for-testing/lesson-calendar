@@ -67,3 +67,27 @@ Saturday `16/09/2017`
     - `enum`, `void`, `any`
 1. Typescript configuration
     - `noImplicitAny`, `suppressImplicitAnyIndexErrors`
+1. Triple-Slash Directives (?)
+
+Sunday `17/09/2017`
+------------
+### Angular
+1. What is Angular ?
+    - Module
+    - Component
+1. Angular versions
+    - https://habrahabr.ru/post/318682/
+1. Server Side Rendering (?)
+1. EventEmitter
+    - https://tproger.ru/translations/event-emitter-javascript/
+1. Templates
+    - http://learnangular2.com/templates/
+    - @Input decorator (BINDING PROPERTIES) `[]`
+    - @Output decorator (HANDLING EVENTS) `()`
+    - Rendering `{{}}`
+1. Template Local Variables with #
+1. Glossary / Cheatsheet
+    - https://angular.io/guide/glossary
+    - https://angular.io/guide/cheatsheet
+1. Code review
+    - http://plnkr.co/edit/v3vmZkOK4fxDXsrziqHx?p=preview
