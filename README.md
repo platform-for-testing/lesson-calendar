@@ -2,7 +2,7 @@ Calendar
 ==================
 | 03/09 | 09/09 | 10/09   | 16/09      | 17/09   | 23/09  |24/09   |30/09   |01/10   |07/10   |08/10   |
 |-------|-------|---------|------------|---------|--------|--------|--------|--------|--------|-------:|
-| [Intro](https://github.com/platform-for-testing/lesson-calendar#sunday-03092017) | [ES6](https://github.com/platform-for-testing/lesson-calendar#saturday-09092017)   | [Node.js](https://github.com/platform-for-testing/lesson-calendar#sunday-10092017) | [TypeScript](https://github.com/platform-for-testing/lesson-calendar#saturday-16092017) | [Angular Intro](https://github.com/platform-for-testing/lesson-calendar#sunday-17092017) |   |[Angular]()   |   |   |   |   |
+| [Intro](https://github.com/platform-for-testing/lesson-calendar#sunday-03092017) | [ES6](https://github.com/platform-for-testing/lesson-calendar#saturday-09092017)   | [Node.js](https://github.com/platform-for-testing/lesson-calendar#sunday-10092017) | [TypeScript](https://github.com/platform-for-testing/lesson-calendar#saturday-16092017) | [Angular Intro](https://github.com/platform-for-testing/lesson-calendar#sunday-17092017) | [REST](https://github.com/platform-for-testing/lesson-calendar#saturday-23092017)  |[Angular CLI, Docker Launch, Mongo DB](https://github.com/platform-for-testing/lesson-calendar#sunday-24092017)   |   |   |   |   |
 
 ![Image of Yaktocat](https://media.giphy.com/media/xTiTnJ3BooiDs8dL7W/giphy.gif)
 
@@ -98,8 +98,16 @@ Sunday `17/09/2017`
 1. Code review
     - http://plnkr.co/edit/v3vmZkOK4fxDXsrziqHx?p=preview
 
+
+Saturday `23/09/2017`
+------------
+1. REST
+1. HTTP
+1. RAML
+
 Sunday `24/09/2017`
 ------------
-### Angular
-1. Angular-CLI
+1. Angular-CLI (?)
     - https://github.com/angular/angular-cli
+1. Docker launch
+1. MongoDB intro
