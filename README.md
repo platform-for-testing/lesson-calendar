@@ -97,7 +97,8 @@ Sunday `17/09/2017`
     - https://angular.io/guide/cheatsheet
 1. Code review
     - http://plnkr.co/edit/v3vmZkOK4fxDXsrziqHx?p=preview
-
+Materials:
+- https://habrahabr.ru/post/274743/
 
 Saturday `23/09/2017`
 ------------
